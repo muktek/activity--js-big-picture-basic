@@ -2,7 +2,16 @@
 
 ### Setup
 
-Clone this repository in your `~/muktek/warmups` directory.
+Clone this repository in your `~/muktek/warmups` directory and get started on the tasks below.
+
+```sh
+# (1)
+cd ~/muktek/warmups
+
+# (2)
+git clone https://github.com/muktek/activity--js-big-picture-basic.git
+
+```
 
 
 ### Tasks
